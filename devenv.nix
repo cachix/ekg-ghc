@@ -1,0 +1,3 @@
+{
+  languages.haskell.enable = true;
+}
